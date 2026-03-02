@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IESC/IESC.vcxproj" Id="d3f58500-f091-463f-92b4-6dbf9b90fbf0" />
+  <Project Path="test/test.vcxproj" Id="827da598-9d75-464c-bd02-9e351f7d2454" />
+</Solution>
